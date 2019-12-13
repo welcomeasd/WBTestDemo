@@ -1,0 +1,22 @@
+{
+  "name": "WBTestDemo",
+  "version": "0.1.0",
+  "summary": "A short description of WBTestDemo.",
+  "description": "A short description of WBTestDemo.A short description of WBTestDemo.",
+  "homepage": "https://github.com/welcomeasd/WBTestDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhaowenbingm@gmail.com": "zhaowenbin@jinshonline.com"
+  },
+  "source": {
+    "git": "https://github.com/welcomeasd/WBTestDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WBTestDemo/Classes/**/*"
+}

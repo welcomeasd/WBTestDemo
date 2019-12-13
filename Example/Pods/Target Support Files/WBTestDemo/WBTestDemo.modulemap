@@ -1,0 +1,6 @@
+framework module WBTestDemo {
+  umbrella header "WBTestDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

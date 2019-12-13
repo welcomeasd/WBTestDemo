@@ -1,0 +1,16 @@
+PODS:
+  - WBTestDemo (0.1.0)
+
+DEPENDENCIES:
+  - WBTestDemo (from `../`)
+
+EXTERNAL SOURCES:
+  WBTestDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WBTestDemo: ede4ad0bc7e39f63d7289396c53a690f2c4e1439
+
+PODFILE CHECKSUM: 34075f8db228e7c2a33844e2cd3992ceeb4f91a9
+
+COCOAPODS: 1.8.4
